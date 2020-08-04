@@ -1,7 +1,7 @@
-countdown = 10
-
-while countdown < 10  do
-  puts "#{count}"
+count = 10
+while count > 0  do
+  puts count
   count -= 1
 end
-  # Write your code here
+puts "Happy New Year!"
+# Write your code here
